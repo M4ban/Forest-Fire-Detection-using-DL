@@ -1,0 +1,54 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model files
+*.h5
+*.keras
+*.pb
+*.tflite
+*.onnx
+saved_model/
+
+# Data directories
+data/
+datasets/
+*.csv
+*.json
+*.zip
+*.tar.gz
+
+# Kaggle cache
+.cache/
+/root/.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
